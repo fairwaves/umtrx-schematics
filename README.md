@@ -27,7 +27,11 @@ In few words, it means, that you're free to copy, distribute and adapt the work 
 
 For a full legal text of the license please refer to the [Creative Commons web-site][CC-BY-SA 3.0].
 
+**Note**: We're looking at the [CERN Open Hardware License][OHL] and will probably switch to it when dust settles around it a bit.
+
+
 [CC-BY-SA 3.0]: http://creativecommons.org/licenses/by-sa/3.0/
+[OHL]: http://www.ohwr.org/projects/cernohl/wiki/
 
 Datasheets
 ----------
