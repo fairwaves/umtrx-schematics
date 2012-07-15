@@ -1,6 +1,13 @@
 Schematics and accompanying documentation for the UmTRX project
 ===============================================================
 
+UmTRX is a dual-channel wide-band SDR transceiver with 1GbE connection. It is developed by [Fairwaves] team to be used as a transceiver for [OpenBTS] GSM base stations, but due to its SDR nature it could be used for many other applications as well.
+
+For more details visit the project web-site: http://code.google.com/p/umtrx/
+
+[Fairwaves]: http://www.fairwaves.ru/
+[OpenBTS]: https://wush.net/trac/rangepublic/
+
 Structure
 ---------
 
