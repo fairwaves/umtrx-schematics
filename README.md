@@ -1,4 +1,29 @@
-umtrx-schematics
-================
-
 Schematics and accompanying documentation for the UmTRX project
+===============================================================
+
+Structure
+---------
+
+- umtrxv2 - files related to UmTRXv2 boards
+  - altium - design files in Altium Designer format
+  - bom - Bill of Materials exported from the Altium Designer
+  - pdf - schematics and assembly drawings exported from the Altium Designer
+
+Note: PCB layout will be published here when we start selling UmTRX boards. Prior to that it's available per request to our partners.
+
+License
+-------
+
+All design files, including schematics and PCB layout are licensed under Creative Commons Attribution-ShareAlike 3.0 license [CC-BY-SA 3.0].
+
+In few words, it means, that you're free to copy, distribute and adapt the work both for commercial and non-commercial use, under the condition that you attribute the original project and distribute the derived work under the same or a compatible license.
+
+For a full legal text of the license please refer to the [Creative Commons web-site][CC-BY-SA 3.0].
+
+[CC-BY-SA 3.0]: http://creativecommons.org/licenses/by-sa/3.0/
+
+Datasheets
+----------
+
+* Most datasheet are easily found at the respective manufacturers' web-sites.
+* Datasheets for Lime Microsystems LMS6002D single-chip transceiver could be found at the lms6002-documentation github repository: https://github.com/chemeris/lms6002-documentation
