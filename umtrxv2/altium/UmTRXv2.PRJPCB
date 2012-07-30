@@ -162,7 +162,7 @@ GenerateClassCluster=0
 Description=UmTRXv2_2U_20dBm_TCXO
 AllowFabrication=1
 ParameterCount=0
-VariationCount=44
+VariationCount=46
 Variation1=Designator=U2|UniqueId=\DWJMGKMU\JMIJXVXX|Kind=1|AlternatePart= 
 Variation2=Designator=R6|UniqueId=\DWJMGKMU\JCBGQMCS|Kind=1|AlternatePart= 
 Variation3=Designator=R12|UniqueId=\DWJMGKMU\GIIWUUFQ|Kind=1|AlternatePart= 
@@ -207,6 +207,8 @@ Variation41=Designator=R79|UniqueId=\GBPJOXFW\TFLHWPJS|Kind=1|AlternatePart=
 Variation42=Designator=C96-1|UniqueId=\CFBMMWXU\GDRCMCIO|Kind=1|AlternatePart= 
 Variation43=Designator=C96-2|UniqueId=\ISWTHDSL\GDRCMCIO|Kind=1|AlternatePart= 
 Variation44=Designator=X16|UniqueId=\GBPJOXFW\CQPFPLIV|Kind=1|AlternatePart= 
+Variation45=Designator=C45-1|UniqueId=\CFBMMWXU\HNHJFKRK|Kind=1|AlternatePart= 
+Variation46=Designator=C45-2|UniqueId=\ISWTHDSL\HNHJFKRK|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -277,282 +279,274 @@ ParamVariation9=ParameterName=Manufacturer|VariantValue=MEC MARCOM
 ParamDesignator9=L5
 ParamVariation10=ParameterName=Name|VariantValue=MLB-160808-0600PL
 ParamDesignator10=L5
-Variation44=Designator=L6-1|UniqueId=\CFBMMWXU\RVOOLTGQ|Kind=0|AlternatePart= 
+Variation44=Designator=L7-1|UniqueId=\CFBMMWXU\BPWGPLWL|Kind=0|AlternatePart= 
 ParamVariation11=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator11=L6-1
+ParamDesignator11=L7-1
 ParamVariation12=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator12=L6-1
-Variation45=Designator=L6-2|UniqueId=\ISWTHDSL\RVOOLTGQ|Kind=0|AlternatePart= 
+ParamDesignator12=L7-1
+Variation45=Designator=L7-2|UniqueId=\ISWTHDSL\BPWGPLWL|Kind=0|AlternatePart= 
 ParamVariation13=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator13=L6-2
+ParamDesignator13=L7-2
 ParamVariation14=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator14=L6-2
-Variation46=Designator=L7-1|UniqueId=\CFBMMWXU\BPWGPLWL|Kind=0|AlternatePart= 
+ParamDesignator14=L7-2
+Variation46=Designator=L8-1|UniqueId=\CFBMMWXU\UNBSTBGO|Kind=0|AlternatePart= 
 ParamVariation15=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator15=L7-1
+ParamDesignator15=L8-1
 ParamVariation16=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator16=L7-1
-Variation47=Designator=L7-2|UniqueId=\ISWTHDSL\BPWGPLWL|Kind=0|AlternatePart= 
+ParamDesignator16=L8-1
+Variation47=Designator=L8-2|UniqueId=\ISWTHDSL\UNBSTBGO|Kind=0|AlternatePart= 
 ParamVariation17=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator17=L7-2
+ParamDesignator17=L8-2
 ParamVariation18=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator18=L7-2
-Variation48=Designator=L8-1|UniqueId=\CFBMMWXU\UNBSTBGO|Kind=0|AlternatePart= 
+ParamDesignator18=L8-2
+Variation48=Designator=L9-1|UniqueId=\CFBMMWXU\UKADWUIA|Kind=0|AlternatePart= 
 ParamVariation19=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator19=L8-1
+ParamDesignator19=L9-1
 ParamVariation20=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator20=L8-1
-Variation49=Designator=L8-2|UniqueId=\ISWTHDSL\UNBSTBGO|Kind=0|AlternatePart= 
+ParamDesignator20=L9-1
+Variation49=Designator=L9-2|UniqueId=\ISWTHDSL\UKADWUIA|Kind=0|AlternatePart= 
 ParamVariation21=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator21=L8-2
+ParamDesignator21=L9-2
 ParamVariation22=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator22=L8-2
-Variation50=Designator=L9-1|UniqueId=\CFBMMWXU\UKADWUIA|Kind=0|AlternatePart= 
+ParamDesignator22=L9-2
+Variation50=Designator=L10-1|UniqueId=\CFBMMWXU\IQYIPMSE|Kind=0|AlternatePart= 
 ParamVariation23=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator23=L9-1
+ParamDesignator23=L10-1
 ParamVariation24=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator24=L9-1
-Variation51=Designator=L9-2|UniqueId=\ISWTHDSL\UKADWUIA|Kind=0|AlternatePart= 
+ParamDesignator24=L10-1
+Variation51=Designator=L10-2|UniqueId=\ISWTHDSL\IQYIPMSE|Kind=0|AlternatePart= 
 ParamVariation25=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator25=L9-2
+ParamDesignator25=L10-2
 ParamVariation26=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator26=L9-2
-Variation52=Designator=L10-1|UniqueId=\CFBMMWXU\IQYIPMSE|Kind=0|AlternatePart= 
+ParamDesignator26=L10-2
+Variation52=Designator=L11-1|UniqueId=\CFBMMWXU\SMNRCKGC|Kind=0|AlternatePart= 
 ParamVariation27=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator27=L10-1
+ParamDesignator27=L11-1
 ParamVariation28=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator28=L10-1
-Variation53=Designator=L10-2|UniqueId=\ISWTHDSL\IQYIPMSE|Kind=0|AlternatePart= 
+ParamDesignator28=L11-1
+Variation53=Designator=L11-2|UniqueId=\ISWTHDSL\SMNRCKGC|Kind=0|AlternatePart= 
 ParamVariation29=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator29=L10-2
+ParamDesignator29=L11-2
 ParamVariation30=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator30=L10-2
-Variation54=Designator=L11-1|UniqueId=\CFBMMWXU\SMNRCKGC|Kind=0|AlternatePart= 
+ParamDesignator30=L11-2
+Variation54=Designator=L12-1|UniqueId=\CFBMMWXU\FRTTEWXS|Kind=0|AlternatePart= 
 ParamVariation31=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator31=L11-1
+ParamDesignator31=L12-1
 ParamVariation32=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator32=L11-1
-Variation55=Designator=L11-2|UniqueId=\ISWTHDSL\SMNRCKGC|Kind=0|AlternatePart= 
+ParamDesignator32=L12-1
+Variation55=Designator=L12-2|UniqueId=\ISWTHDSL\FRTTEWXS|Kind=0|AlternatePart= 
 ParamVariation33=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator33=L11-2
+ParamDesignator33=L12-2
 ParamVariation34=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator34=L11-2
-Variation56=Designator=L12-1|UniqueId=\CFBMMWXU\FRTTEWXS|Kind=0|AlternatePart= 
+ParamDesignator34=L12-2
+Variation56=Designator=L13-1|UniqueId=\CFBMMWXU\ISMLMENL|Kind=0|AlternatePart= 
 ParamVariation35=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator35=L12-1
+ParamDesignator35=L13-1
 ParamVariation36=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator36=L12-1
-Variation57=Designator=L12-2|UniqueId=\ISWTHDSL\FRTTEWXS|Kind=0|AlternatePart= 
+ParamDesignator36=L13-1
+Variation57=Designator=L13-2|UniqueId=\ISWTHDSL\ISMLMENL|Kind=0|AlternatePart= 
 ParamVariation37=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator37=L12-2
+ParamDesignator37=L13-2
 ParamVariation38=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator38=L12-2
-Variation58=Designator=L13-1|UniqueId=\CFBMMWXU\ISMLMENL|Kind=0|AlternatePart= 
+ParamDesignator38=L13-2
+Variation58=Designator=L14-1|UniqueId=\CFBMMWXU\OKUACWEU|Kind=0|AlternatePart= 
 ParamVariation39=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator39=L13-1
+ParamDesignator39=L14-1
 ParamVariation40=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator40=L13-1
-Variation59=Designator=L13-2|UniqueId=\ISWTHDSL\ISMLMENL|Kind=0|AlternatePart= 
+ParamDesignator40=L14-1
+Variation59=Designator=L14-2|UniqueId=\ISWTHDSL\OKUACWEU|Kind=0|AlternatePart= 
 ParamVariation41=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator41=L13-2
+ParamDesignator41=L14-2
 ParamVariation42=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator42=L13-2
-Variation60=Designator=L14-1|UniqueId=\CFBMMWXU\OKUACWEU|Kind=0|AlternatePart= 
+ParamDesignator42=L14-2
+Variation60=Designator=L15-1|UniqueId=\CFBMMWXU\UITXVTGQ|Kind=0|AlternatePart= 
 ParamVariation43=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator43=L14-1
+ParamDesignator43=L15-1
 ParamVariation44=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator44=L14-1
-Variation61=Designator=L14-2|UniqueId=\ISWTHDSL\OKUACWEU|Kind=0|AlternatePart= 
+ParamDesignator44=L15-1
+Variation61=Designator=L15-2|UniqueId=\ISWTHDSL\UITXVTGQ|Kind=0|AlternatePart= 
 ParamVariation45=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator45=L14-2
+ParamDesignator45=L15-2
 ParamVariation46=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator46=L14-2
-Variation62=Designator=L15-1|UniqueId=\CFBMMWXU\UITXVTGQ|Kind=0|AlternatePart= 
+ParamDesignator46=L15-2
+Variation62=Designator=L16-1|UniqueId=\CFBMMWXU\DSIBSKGT|Kind=0|AlternatePart= 
 ParamVariation47=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator47=L15-1
+ParamDesignator47=L16-1
 ParamVariation48=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator48=L15-1
-Variation63=Designator=L15-2|UniqueId=\ISWTHDSL\UITXVTGQ|Kind=0|AlternatePart= 
+ParamDesignator48=L16-1
+Variation63=Designator=L16-2|UniqueId=\ISWTHDSL\DSIBSKGT|Kind=0|AlternatePart= 
 ParamVariation49=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator49=L15-2
+ParamDesignator49=L16-2
 ParamVariation50=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator50=L15-2
-Variation64=Designator=L16-1|UniqueId=\CFBMMWXU\DSIBSKGT|Kind=0|AlternatePart= 
+ParamDesignator50=L16-2
+Variation64=Designator=L17-1|UniqueId=\CFBMMWXU\WOQKNMKI|Kind=0|AlternatePart= 
 ParamVariation51=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator51=L16-1
+ParamDesignator51=L17-1
 ParamVariation52=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator52=L16-1
-Variation65=Designator=L16-2|UniqueId=\ISWTHDSL\DSIBSKGT|Kind=0|AlternatePart= 
+ParamDesignator52=L17-1
+Variation65=Designator=L17-2|UniqueId=\ISWTHDSL\WOQKNMKI|Kind=0|AlternatePart= 
 ParamVariation53=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator53=L16-2
+ParamDesignator53=L17-2
 ParamVariation54=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator54=L16-2
-Variation66=Designator=L17-1|UniqueId=\CFBMMWXU\WOQKNMKI|Kind=0|AlternatePart= 
+ParamDesignator54=L17-2
+Variation66=Designator=L18-1|UniqueId=\CFBMMWXU\SJHNULAG|Kind=0|AlternatePart= 
 ParamVariation55=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator55=L17-1
+ParamDesignator55=L18-1
 ParamVariation56=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator56=L17-1
-Variation67=Designator=L17-2|UniqueId=\ISWTHDSL\WOQKNMKI|Kind=0|AlternatePart= 
+ParamDesignator56=L18-1
+Variation67=Designator=L18-2|UniqueId=\ISWTHDSL\SJHNULAG|Kind=0|AlternatePart= 
 ParamVariation57=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator57=L17-2
+ParamDesignator57=L18-2
 ParamVariation58=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator58=L17-2
-Variation68=Designator=L18-1|UniqueId=\CFBMMWXU\SJHNULAG|Kind=0|AlternatePart= 
+ParamDesignator58=L18-2
+Variation68=Designator=L19-1|UniqueId=\CFBMMWXU\MJCDNULP|Kind=0|AlternatePart= 
 ParamVariation59=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator59=L18-1
+ParamDesignator59=L19-1
 ParamVariation60=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator60=L18-1
-Variation69=Designator=L18-2|UniqueId=\ISWTHDSL\SJHNULAG|Kind=0|AlternatePart= 
+ParamDesignator60=L19-1
+Variation69=Designator=L19-2|UniqueId=\ISWTHDSL\MJCDNULP|Kind=0|AlternatePart= 
 ParamVariation61=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator61=L18-2
+ParamDesignator61=L19-2
 ParamVariation62=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator62=L18-2
-Variation70=Designator=L19-1|UniqueId=\CFBMMWXU\MJCDNULP|Kind=0|AlternatePart= 
+ParamDesignator62=L19-2
+Variation70=Designator=L20-1|UniqueId=\CFBMMWXU\XYJIDWPM|Kind=0|AlternatePart= 
 ParamVariation63=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator63=L19-1
+ParamDesignator63=L20-1
 ParamVariation64=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator64=L19-1
-Variation71=Designator=L19-2|UniqueId=\ISWTHDSL\MJCDNULP|Kind=0|AlternatePart= 
+ParamDesignator64=L20-1
+Variation71=Designator=L20-2|UniqueId=\ISWTHDSL\XYJIDWPM|Kind=0|AlternatePart= 
 ParamVariation65=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator65=L19-2
+ParamDesignator65=L20-2
 ParamVariation66=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator66=L19-2
-Variation72=Designator=L20-1|UniqueId=\CFBMMWXU\XYJIDWPM|Kind=0|AlternatePart= 
+ParamDesignator66=L20-2
+Variation72=Designator=L21-1|UniqueId=\CFBMMWXU\PEBIAAUY|Kind=0|AlternatePart= 
 ParamVariation67=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator67=L20-1
+ParamDesignator67=L21-1
 ParamVariation68=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator68=L20-1
-Variation73=Designator=L20-2|UniqueId=\ISWTHDSL\XYJIDWPM|Kind=0|AlternatePart= 
+ParamDesignator68=L21-1
+Variation73=Designator=L21-2|UniqueId=\ISWTHDSL\PEBIAAUY|Kind=0|AlternatePart= 
 ParamVariation69=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator69=L20-2
+ParamDesignator69=L21-2
 ParamVariation70=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator70=L20-2
-Variation74=Designator=L21-1|UniqueId=\CFBMMWXU\PEBIAAUY|Kind=0|AlternatePart= 
+ParamDesignator70=L21-2
+Variation74=Designator=L22-1|UniqueId=\CFBMMWXU\VTYDULMB|Kind=0|AlternatePart= 
 ParamVariation71=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator71=L21-1
+ParamDesignator71=L22-1
 ParamVariation72=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator72=L21-1
-Variation75=Designator=L21-2|UniqueId=\ISWTHDSL\PEBIAAUY|Kind=0|AlternatePart= 
+ParamDesignator72=L22-1
+Variation75=Designator=L22-2|UniqueId=\ISWTHDSL\VTYDULMB|Kind=0|AlternatePart= 
 ParamVariation73=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator73=L21-2
+ParamDesignator73=L22-2
 ParamVariation74=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator74=L21-2
-Variation76=Designator=L22-1|UniqueId=\CFBMMWXU\VTYDULMB|Kind=0|AlternatePart= 
+ParamDesignator74=L22-2
+Variation76=Designator=L23-1|UniqueId=\CFBMMWXU\NUXVFTKG|Kind=0|AlternatePart= 
 ParamVariation75=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator75=L22-1
+ParamDesignator75=L23-1
 ParamVariation76=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator76=L22-1
-Variation77=Designator=L22-2|UniqueId=\ISWTHDSL\VTYDULMB|Kind=0|AlternatePart= 
+ParamDesignator76=L23-1
+Variation77=Designator=L23-2|UniqueId=\ISWTHDSL\NUXVFTKG|Kind=0|AlternatePart= 
 ParamVariation77=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator77=L22-2
+ParamDesignator77=L23-2
 ParamVariation78=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator78=L22-2
-Variation78=Designator=L23-1|UniqueId=\CFBMMWXU\NUXVFTKG|Kind=0|AlternatePart= 
+ParamDesignator78=L23-2
+Variation78=Designator=L24-1|UniqueId=\CFBMMWXU\CFCLTFAA|Kind=0|AlternatePart= 
 ParamVariation79=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator79=L23-1
+ParamDesignator79=L24-1
 ParamVariation80=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator80=L23-1
-Variation79=Designator=L23-2|UniqueId=\ISWTHDSL\NUXVFTKG|Kind=0|AlternatePart= 
+ParamDesignator80=L24-1
+Variation79=Designator=L24-2|UniqueId=\ISWTHDSL\CFCLTFAA|Kind=0|AlternatePart= 
 ParamVariation81=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator81=L23-2
+ParamDesignator81=L24-2
 ParamVariation82=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator82=L23-2
-Variation80=Designator=L24-1|UniqueId=\CFBMMWXU\CFCLTFAA|Kind=0|AlternatePart= 
+ParamDesignator82=L24-2
+Variation80=Designator=L25-1|UniqueId=\CFBMMWXU\LBFQVLEF|Kind=0|AlternatePart= 
 ParamVariation83=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator83=L24-1
+ParamDesignator83=L25-1
 ParamVariation84=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator84=L24-1
-Variation81=Designator=L24-2|UniqueId=\ISWTHDSL\CFCLTFAA|Kind=0|AlternatePart= 
+ParamDesignator84=L25-1
+Variation81=Designator=L25-2|UniqueId=\ISWTHDSL\LBFQVLEF|Kind=0|AlternatePart= 
 ParamVariation85=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator85=L24-2
+ParamDesignator85=L25-2
 ParamVariation86=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator86=L24-2
-Variation82=Designator=L25-1|UniqueId=\CFBMMWXU\LBFQVLEF|Kind=0|AlternatePart= 
+ParamDesignator86=L25-2
+Variation82=Designator=L26-1|UniqueId=\CFBMMWXU\ATQXRSDU|Kind=0|AlternatePart= 
 ParamVariation87=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator87=L25-1
+ParamDesignator87=L26-1
 ParamVariation88=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator88=L25-1
-Variation83=Designator=L25-2|UniqueId=\ISWTHDSL\LBFQVLEF|Kind=0|AlternatePart= 
+ParamDesignator88=L26-1
+Variation83=Designator=L26-2|UniqueId=\ISWTHDSL\ATQXRSDU|Kind=0|AlternatePart= 
 ParamVariation89=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator89=L25-2
+ParamDesignator89=L26-2
 ParamVariation90=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator90=L25-2
-Variation84=Designator=L26-1|UniqueId=\CFBMMWXU\ATQXRSDU|Kind=0|AlternatePart= 
+ParamDesignator90=L26-2
+Variation84=Designator=L27-1|UniqueId=\CFBMMWXU\EUMNUPBU|Kind=0|AlternatePart= 
 ParamVariation91=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator91=L26-1
+ParamDesignator91=L27-1
 ParamVariation92=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator92=L26-1
-Variation85=Designator=L26-2|UniqueId=\ISWTHDSL\ATQXRSDU|Kind=0|AlternatePart= 
+ParamDesignator92=L27-1
+Variation85=Designator=L27-2|UniqueId=\ISWTHDSL\EUMNUPBU|Kind=0|AlternatePart= 
 ParamVariation93=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator93=L26-2
+ParamDesignator93=L27-2
 ParamVariation94=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator94=L26-2
-Variation86=Designator=L27-1|UniqueId=\CFBMMWXU\EUMNUPBU|Kind=0|AlternatePart= 
+ParamDesignator94=L27-2
+Variation86=Designator=L28-1|UniqueId=\CFBMMWXU\AERCXJYR|Kind=0|AlternatePart= 
 ParamVariation95=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator95=L27-1
+ParamDesignator95=L28-1
 ParamVariation96=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator96=L27-1
-Variation87=Designator=L27-2|UniqueId=\ISWTHDSL\EUMNUPBU|Kind=0|AlternatePart= 
+ParamDesignator96=L28-1
+Variation87=Designator=L28-2|UniqueId=\ISWTHDSL\AERCXJYR|Kind=0|AlternatePart= 
 ParamVariation97=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator97=L27-2
+ParamDesignator97=L28-2
 ParamVariation98=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator98=L27-2
-Variation88=Designator=L28-1|UniqueId=\CFBMMWXU\AERCXJYR|Kind=0|AlternatePart= 
+ParamDesignator98=L28-2
+Variation88=Designator=L29-1|UniqueId=\CFBMMWXU\EBMKJHFB|Kind=0|AlternatePart= 
 ParamVariation99=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator99=L28-1
+ParamDesignator99=L29-1
 ParamVariation100=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator100=L28-1
-Variation89=Designator=L28-2|UniqueId=\ISWTHDSL\AERCXJYR|Kind=0|AlternatePart= 
+ParamDesignator100=L29-1
+Variation89=Designator=L29-2|UniqueId=\ISWTHDSL\EBMKJHFB|Kind=0|AlternatePart= 
 ParamVariation101=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator101=L28-2
+ParamDesignator101=L29-2
 ParamVariation102=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator102=L28-2
-Variation90=Designator=L29-1|UniqueId=\CFBMMWXU\EBMKJHFB|Kind=0|AlternatePart= 
+ParamDesignator102=L29-2
+Variation90=Designator=L45|UniqueId=\XVQEKNYN\SKOKQVDP|Kind=0|AlternatePart= 
 ParamVariation103=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator103=L29-1
+ParamDesignator103=L45
 ParamVariation104=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator104=L29-1
-Variation91=Designator=L29-2|UniqueId=\ISWTHDSL\EBMKJHFB|Kind=0|AlternatePart= 
+ParamDesignator104=L45
+Variation91=Designator=L46|UniqueId=\GBPJOXFW\HKNJCLPJ|Kind=0|AlternatePart= 
 ParamVariation105=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator105=L29-2
+ParamDesignator105=L46
 ParamVariation106=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator106=L29-2
-Variation92=Designator=L45|UniqueId=\XVQEKNYN\SKOKQVDP|Kind=0|AlternatePart= 
+ParamDesignator106=L46
+Variation92=Designator=L40|UniqueId=\XVQEKNYN\REKKYPQU|Kind=0|AlternatePart= 
 ParamVariation107=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator107=L45
-ParamVariation108=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator108=L45
-Variation93=Designator=L46|UniqueId=\GBPJOXFW\HKNJCLPJ|Kind=0|AlternatePart= 
+ParamDesignator107=L40
+ParamVariation108=ParameterName=Name|VariantValue=MLB-201209-0120PU
+ParamDesignator108=L40
+Variation93=Designator=L41|UniqueId=\XVQEKNYN\FLTVTQKQ|Kind=0|AlternatePart= 
 ParamVariation109=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator109=L46
-ParamVariation110=ParameterName=Name|VariantValue=MLB-160808-0600PL
-ParamDesignator110=L46
-Variation94=Designator=L40|UniqueId=\XVQEKNYN\REKKYPQU|Kind=0|AlternatePart= 
+ParamDesignator109=L41
+ParamVariation110=ParameterName=Name|VariantValue=MLB-201209-0120PU
+ParamDesignator110=L41
+Variation94=Designator=L42|UniqueId=\XVQEKNYN\IGAQSNXK|Kind=0|AlternatePart= 
 ParamVariation111=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator111=L40
+ParamDesignator111=L42
 ParamVariation112=ParameterName=Name|VariantValue=MLB-201209-0120PU
-ParamDesignator112=L40
-Variation95=Designator=L41|UniqueId=\XVQEKNYN\FLTVTQKQ|Kind=0|AlternatePart= 
+ParamDesignator112=L42
+Variation95=Designator=L43|UniqueId=\XVQEKNYN\IDYQGFFP|Kind=0|AlternatePart= 
 ParamVariation113=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator113=L41
+ParamDesignator113=L43
 ParamVariation114=ParameterName=Name|VariantValue=MLB-201209-0120PU
-ParamDesignator114=L41
-Variation96=Designator=L42|UniqueId=\XVQEKNYN\IGAQSNXK|Kind=0|AlternatePart= 
+ParamDesignator114=L43
+Variation96=Designator=L44|UniqueId=\XVQEKNYN\LLROGPVD|Kind=0|AlternatePart= 
 ParamVariation115=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator115=L42
+ParamDesignator115=L44
 ParamVariation116=ParameterName=Name|VariantValue=MLB-201209-0120PU
-ParamDesignator116=L42
-Variation97=Designator=L43|UniqueId=\XVQEKNYN\IDYQGFFP|Kind=0|AlternatePart= 
-ParamVariation117=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator117=L43
-ParamVariation118=ParameterName=Name|VariantValue=MLB-201209-0120PU
-ParamDesignator118=L43
-Variation98=Designator=L44|UniqueId=\XVQEKNYN\LLROGPVD|Kind=0|AlternatePart= 
-ParamVariation119=ParameterName=Manufacturer|VariantValue=MEC MARCOM
-ParamDesignator119=L44
-ParamVariation120=ParameterName=Name|VariantValue=MLB-201209-0120PU
-ParamDesignator120=L44
-ParamVariationCount=120
+ParamDesignator116=L44
+Variation97=Designator=C45-1|UniqueId=\CFBMMWXU\HNHJFKRK|Kind=1|AlternatePart= 
+Variation98=Designator=C45-2|UniqueId=\ISWTHDSL\HNHJFKRK|Kind=1|AlternatePart= 
+ParamVariationCount=116
 
 [ProjectVariant3]
 Description=UmTRXv2_empty
@@ -1269,6 +1263,13 @@ Variation707=Designator=TST7-2|UniqueId=\ISWTHDSL\VXOJYYXV|Kind=1|AlternatePart=
 Variation708=Designator=TST8-2|UniqueId=\ISWTHDSL\VHSJXDHA|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[ProjectVariant4]
+Description=UmTRXv2_full_assembly
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs\Design Rule Check - UmTRXv2.html
 DItemRevisionGUID=
@@ -1680,14 +1681,14 @@ TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
-OutputDocumentPath1=D:\NewProj\UmTRX_new\Project\UmTRXv1b.PcbDoc
+OutputDocumentPath1=D:\NewProj\UmTRX_new\Project\UmTRXv2.PcbDoc
 OutputVariantName1=[No Variations]
 OutputDefault1=1
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.71|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration1_Name2=OutputConfigurationParameter2
-Configuration1_Item2=IncludeBottomLayerComponents=False|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|Index=0|Mirror=False|Name=Top Assembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=True
+Configuration1_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|Index=0|Mirror=False|Name=Top Assembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=True
 Configuration1_Name3=OutputConfigurationParameter3
 Configuration1_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration1_Name4=OutputConfigurationParameter4
@@ -1699,7 +1700,7 @@ Configuration1_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full
 Configuration1_Name7=OutputConfigurationParameter7
 Configuration1_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration1_Name8=OutputConfigurationParameter8
-Configuration1_Item8=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=False|Index=1|Mirror=True|Name=Bottom Assembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=True
+Configuration1_Item8=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|Index=1|Mirror=True|Name=Bottom Assembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=True
 Configuration1_Name9=OutputConfigurationParameter9
 Configuration1_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
 Configuration1_Name10=OutputConfigurationParameter10
