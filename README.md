@@ -11,7 +11,7 @@ For more details visit the project web-site: http://code.google.com/p/umtrx/
 Structure
 ---------
 
-- umtrxv2 - files related to UmTRXv2 boards
+- umtrx-v2 - files related to UmTRXv2 boards
   - altium - design files in Altium Designer format
   - bom - Bill of Materials exported from the Altium Designer
   - pdf - schematics and assembly drawings exported from the Altium Designer
