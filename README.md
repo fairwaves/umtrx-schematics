@@ -15,10 +15,13 @@ Structure
   - altium - design files in Altium Designer format
   - bom - Bill of Materials exported from the Altium Designer
   - pdf - schematics and assembly drawings exported from the Altium Designer
+  - pictures - 3D model pictures and photos
 - umtrx-v2-rxsel - files related to UmTRXv2 preselector boards
   - altium - design files in Altium Designer format
   - bom - Bill of Materials exported from the Altium Designer
+  - gerber - PCB layout in the Gerber format
   - pdf - schematics and assembly drawings exported from the Altium Designer
+  - pictures - 3D model pictures and photos
 
 Note: PCB layout will be published here when we start selling UmTRX boards. Prior to that it's available per request to our partners.
 
