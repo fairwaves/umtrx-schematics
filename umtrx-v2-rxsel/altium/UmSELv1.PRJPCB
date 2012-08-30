@@ -7,8 +7,8 @@ LogFolderPath=Project Logs
 ReleasesFolder=
 ReleaseVaultGUID=
 ReleaseVaultName=
-ChannelDesignatorFormatString=$Component-$ChannelIndex
-ChannelRoomLevelSeperator=-
+ChannelDesignatorFormatString=$Component$RoomName
+ChannelRoomLevelSeperator=
 OpenOutputs=0
 ArchiveProject=0
 TimestampOutput=0
@@ -37,7 +37,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=4
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -111,7 +111,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document6]
-DocumentPath=UmTRXv2_RxSel.OutJob
+DocumentPath=UmSELv1-1800.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document7]
+DocumentPath=UmSELv1-900.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137,115 +153,326 @@ ParamVariationCount=0
 Description=UmSELv1. GSM 900 Preselector.
 AllowFabrication=0
 ParameterCount=0
-VariationCount=13
-Variation1=Designator=C46-1|UniqueId=\WBTQUDQR\BGHIHKQM|Kind=1|AlternatePart= 
-Variation2=Designator=C38-1|UniqueId=\WBTQUDQR\ERUFKBNA|Kind=1|AlternatePart= 
-Variation3=Designator=Z3-1|UniqueId=\WBTQUDQR\RHBFMIIF|Kind=1|AlternatePart= 
-Variation4=Designator=L16-1|UniqueId=\WBTQUDQR\LNBXLENG|Kind=1|AlternatePart= 
-Variation5=Designator=C62-1|UniqueId=\WBTQUDQR\THUSYFHH|Kind=1|AlternatePart= 
-Variation6=Designator=C52-1|UniqueId=\WBTQUDQR\RRHUCPWN|Kind=1|AlternatePart= 
-Variation7=Designator=C38-2|UniqueId=\EPRXPWLH\ERUFKBNA|Kind=1|AlternatePart= 
-Variation8=Designator=C46-2|UniqueId=\EPRXPWLH\BGHIHKQM|Kind=1|AlternatePart= 
-Variation9=Designator=Z3-2|UniqueId=\EPRXPWLH\RHBFMIIF|Kind=1|AlternatePart= 
-Variation10=Designator=L16-2|UniqueId=\EPRXPWLH\LNBXLENG|Kind=1|AlternatePart= 
-Variation11=Designator=C62-2|UniqueId=\EPRXPWLH\THUSYFHH|Kind=1|AlternatePart= 
-Variation12=Designator=C52-2|UniqueId=\EPRXPWLH\RRHUCPWN|Kind=1|AlternatePart= 
-Variation13=Designator=R7|UniqueId=\KQWQGLTG\YJMOHRYX|Kind=2|AlternatePart=100
-ParamVariation1=ParameterName=Value|VariantValue=100
-ParamDesignator1=R7
-ParamVariation2=ParameterName=Comment|VariantValue=100
-ParamDesignator2=R7
-ParamVariationCount=2
+VariationCount=24
+Variation1=Designator=C57|UniqueId=\WBTQUDQR\BGHIHKQM|Kind=1|AlternatePart= 
+Variation2=Designator=C49|UniqueId=\WBTQUDQR\ERUFKBNA|Kind=1|AlternatePart= 
+Variation3=Designator=Z5|UniqueId=\WBTQUDQR\RHBFMIIF|Kind=0|AlternatePart= 
+ParamVariation1=ParameterName=Name|VariantValue=FAR-F5KA-897M50-D4VW
+ParamDesignator1=Z5
+Variation4=Designator=L20|UniqueId=\WBTQUDQR\LNBXLENG|Kind=1|AlternatePart= 
+Variation5=Designator=C49"|UniqueId=\EPRXPWLH\ERUFKBNA|Kind=1|AlternatePart= 
+Variation6=Designator=C57"|UniqueId=\EPRXPWLH\BGHIHKQM|Kind=1|AlternatePart= 
+Variation7=Designator=Z5"|UniqueId=\EPRXPWLH\RHBFMIIF|Kind=0|AlternatePart= 
+ParamVariation2=ParameterName=Name|VariantValue=FAR-F5KA-897M50-D4VW
+ParamDesignator2=Z5"
+Variation8=Designator=L20"|UniqueId=\EPRXPWLH\LNBXLENG|Kind=1|AlternatePart= 
+Variation9=Designator=U10|UniqueId=\CTYTDVIT\OPNVUTQL|Kind=0|AlternatePart= 
+ParamVariation3=ParameterName=Name|VariantValue=MGA13116
+ParamDesignator3=U10
+Variation10=Designator=U11|UniqueId=\CTYTDVIT\KKEMCXGY|Kind=0|AlternatePart= 
+ParamVariation4=ParameterName=Name|VariantValue=MGA13116
+ParamDesignator4=U11
+Variation11=Designator=Z2|UniqueId=\CTYTDVIT\NHWCVOSV|Kind=0|AlternatePart= 
+ParamVariation5=ParameterName=Name|VariantValue=FAR-F5KA-897M50-D4VW
+ParamDesignator5=Z2
+Variation12=Designator=Z1|UniqueId=\CTYTDVIT\YJENJQDV|Kind=0|AlternatePart= 
+ParamVariation6=ParameterName=Name|VariantValue=FAR-F5KA-897M50-D4VW
+ParamDesignator6=Z1
+Variation13=Designator=L7|UniqueId=\CTYTDVIT\HKVTMRNJ|Kind=1|AlternatePart= 
+Variation14=Designator=L6|UniqueId=\CTYTDVIT\CIWJVICR|Kind=1|AlternatePart= 
+Variation15=Designator=C37|UniqueId=\CTYTDVIT\EDUBDUIO|Kind=1|AlternatePart= 
+Variation16=Designator=C39|UniqueId=\CTYTDVIT\OHMCOHUY|Kind=1|AlternatePart= 
+Variation17=Designator=C41"|UniqueId=\EPRXPWLH\HQMDPIHP|Kind=1|AlternatePart= 
+Variation18=Designator=C42|UniqueId=\WBTQUDQR\PYLMXFDI|Kind=1|AlternatePart= 
+Variation19=Designator=C44|UniqueId=\WBTQUDQR\WPWEGHHN|Kind=1|AlternatePart= 
+Variation20=Designator=C41|UniqueId=\WBTQUDQR\HQMDPIHP|Kind=1|AlternatePart= 
+Variation21=Designator=C42"|UniqueId=\EPRXPWLH\PYLMXFDI|Kind=1|AlternatePart= 
+Variation22=Designator=C44"|UniqueId=\EPRXPWLH\WPWEGHHN|Kind=1|AlternatePart= 
+Variation23=Designator=U13|UniqueId=\WBTQUDQR\HBSNQWLA|Kind=0|AlternatePart= 
+ParamVariation7=ParameterName=Name|VariantValue=HMC483MS8G
+ParamDesignator7=U13
+Variation24=Designator=U13"|UniqueId=\EPRXPWLH\HBSNQWLA|Kind=0|AlternatePart= 
+ParamVariation8=ParameterName=Name|VariantValue=HMC483MS8G
+ParamDesignator8=U13"
+ParamVariationCount=8
 
 [ProjectVariant3]
 Description=UmSELv1. GSM 1800 Preselector.
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
-ParamVariationCount=0
+VariationCount=64
+Variation1=Designator=Z5|UniqueId=\WBTQUDQR\RHBFMIIF|Kind=0|AlternatePart= 
+ParamVariation1=ParameterName=Name|VariantValue=FAR-F6KA-1G7475-D4CY
+ParamDesignator1=Z5
+Variation2=Designator=Z5"|UniqueId=\EPRXPWLH\RHBFMIIF|Kind=0|AlternatePart= 
+ParamVariation2=ParameterName=Name|VariantValue=FAR-F6KA-1G7475-D4CY
+ParamDesignator2=Z5"
+Variation3=Designator=C12|UniqueId=\CTYTDVIT\FKDAUBEM|Kind=0|AlternatePart= 
+ParamVariation3=ParameterName=Value|VariantValue=10p
+ParamDesignator3=C12
+Variation4=Designator=C17|UniqueId=\CTYTDVIT\ONDYYLYB|Kind=0|AlternatePart= 
+ParamVariation4=ParameterName=Value|VariantValue=10p
+ParamDesignator4=C17
+Variation5=Designator=U13|UniqueId=\WBTQUDQR\HBSNQWLA|Kind=0|AlternatePart= 
+ParamVariation5=ParameterName=Name|VariantValue=HMC485MS8G
+ParamDesignator5=U13
+Variation6=Designator=U10|UniqueId=\CTYTDVIT\OPNVUTQL|Kind=0|AlternatePart= 
+ParamVariation6=ParameterName=Name|VariantValue=MGA13216
+ParamDesignator6=U10
+Variation7=Designator=U11|UniqueId=\CTYTDVIT\KKEMCXGY|Kind=0|AlternatePart= 
+ParamVariation7=ParameterName=Name|VariantValue=MGA13216
+ParamDesignator7=U11
+Variation8=Designator=U13"|UniqueId=\EPRXPWLH\HBSNQWLA|Kind=0|AlternatePart= 
+ParamVariation8=ParameterName=Name|VariantValue=HMC485MS8G
+ParamDesignator8=U13"
+Variation9=Designator=Z2|UniqueId=\CTYTDVIT\NHWCVOSV|Kind=0|AlternatePart= 
+ParamVariation9=ParameterName=Name|VariantValue=FAR-F6KA-1G7475-D4CY
+ParamDesignator9=Z2
+Variation10=Designator=Z1|UniqueId=\CTYTDVIT\YJENJQDV|Kind=0|AlternatePart= 
+ParamVariation10=ParameterName=Name|VariantValue=FAR-F6KA-1G7475-D4CY
+ParamDesignator10=Z1
+Variation11=Designator=L7|UniqueId=\CTYTDVIT\HKVTMRNJ|Kind=0|AlternatePart= 
+ParamVariation11=ParameterName=Value|VariantValue=12nH
+ParamDesignator11=L7
+Variation12=Designator=L6|UniqueId=\CTYTDVIT\CIWJVICR|Kind=0|AlternatePart= 
+ParamVariation12=ParameterName=Value|VariantValue=12nH
+ParamDesignator12=L6
+Variation13=Designator=L20|UniqueId=\WBTQUDQR\LNBXLENG|Kind=0|AlternatePart= 
+ParamVariation13=ParameterName=Value|VariantValue=12nH
+ParamDesignator13=L20
+Variation14=Designator=L20"|UniqueId=\EPRXPWLH\LNBXLENG|Kind=0|AlternatePart= 
+ParamVariation14=ParameterName=Value|VariantValue=12nH
+ParamDesignator14=L20"
+Variation15=Designator=C49|UniqueId=\WBTQUDQR\ERUFKBNA|Kind=1|AlternatePart= 
+Variation16=Designator=C49"|UniqueId=\EPRXPWLH\ERUFKBNA|Kind=1|AlternatePart= 
+Variation17=Designator=C57|UniqueId=\WBTQUDQR\BGHIHKQM|Kind=1|AlternatePart= 
+Variation18=Designator=C57"|UniqueId=\EPRXPWLH\BGHIHKQM|Kind=1|AlternatePart= 
+Variation19=Designator=C16|UniqueId=\CTYTDVIT\EPQIKQBU|Kind=0|AlternatePart= 
+ParamVariation15=ParameterName=Value|VariantValue=10p
+ParamDesignator15=C16
+Variation20=Designator=C20|UniqueId=\CTYTDVIT\XQBKVXGK|Kind=0|AlternatePart= 
+ParamVariation16=ParameterName=Value|VariantValue=3.3p
+ParamDesignator16=C20
+Variation21=Designator=C22|UniqueId=\CTYTDVIT\AWGXAJVC|Kind=0|AlternatePart= 
+ParamVariation17=ParameterName=Value|VariantValue=100p
+ParamDesignator17=C22
+Variation22=Designator=C23|UniqueId=\CTYTDVIT\WPAUNSKO|Kind=0|AlternatePart= 
+ParamVariation18=ParameterName=Value|VariantValue=100p
+ParamDesignator18=C23
+Variation23=Designator=C26|UniqueId=\CTYTDVIT\BEEGPIXX|Kind=0|AlternatePart= 
+ParamVariation19=ParameterName=Value|VariantValue=10p
+ParamDesignator19=C26
+Variation24=Designator=C27|UniqueId=\CTYTDVIT\PJXOURIK|Kind=0|AlternatePart= 
+ParamVariation20=ParameterName=Value|VariantValue=10p
+ParamDesignator20=C27
+Variation25=Designator=C30|UniqueId=\CTYTDVIT\SXJKMGEJ|Kind=0|AlternatePart= 
+ParamVariation21=ParameterName=Value|VariantValue=10p
+ParamDesignator21=C30
+Variation26=Designator=C35|UniqueId=\CTYTDVIT\RHTFKEJD|Kind=0|AlternatePart= 
+ParamVariation22=ParameterName=Value|VariantValue=10p
+ParamDesignator22=C35
+Variation27=Designator=C40|UniqueId=\CTYTDVIT\ARFXNQIL|Kind=0|AlternatePart= 
+ParamVariation23=ParameterName=Value|VariantValue=10p
+ParamDesignator23=C40
+ParamVariation24=ParameterName=U/P/TKE|VariantValue=NP0
+ParamDesignator24=C40
+Variation28=Designator=C15|UniqueId=\CTYTDVIT\NOGNWIEJ|Kind=0|AlternatePart= 
+ParamVariation25=ParameterName=Value|VariantValue=10p
+ParamDesignator25=C15
+Variation29=Designator=C32|UniqueId=\CTYTDVIT\SJJECFYO|Kind=0|AlternatePart= 
+ParamVariation26=ParameterName=Value|VariantValue=1000p
+ParamDesignator26=C32
+Variation30=Designator=C31|UniqueId=\CTYTDVIT\HFFQXPCO|Kind=0|AlternatePart= 
+ParamVariation27=ParameterName=Value|VariantValue=10p
+ParamDesignator27=C31
+Variation31=Designator=C36|UniqueId=\CTYTDVIT\CQINGCQE|Kind=0|AlternatePart= 
+ParamVariation28=ParameterName=Value|VariantValue=10p
+ParamDesignator28=C36
+Variation32=Designator=C21|UniqueId=\CTYTDVIT\CNFABIGC|Kind=0|AlternatePart= 
+ParamVariation29=ParameterName=Value|VariantValue=3.3p
+ParamDesignator29=C21
+Variation33=Designator=C14|UniqueId=\CTYTDVIT\YGXPPNXC|Kind=0|AlternatePart= 
+ParamVariation30=ParameterName=Value|VariantValue=10p
+ParamDesignator30=C14
+Variation34=Designator=C38|UniqueId=\CTYTDVIT\OUHKHNGO|Kind=0|AlternatePart= 
+ParamVariation31=ParameterName=Value|VariantValue=10p
+ParamDesignator31=C38
+ParamVariation32=ParameterName=U/P/TKE|VariantValue=NP0
+ParamDesignator32=C38
+Variation35=Designator=C13|UniqueId=\CTYTDVIT\CBLQFBNB|Kind=0|AlternatePart= 
+ParamVariation33=ParameterName=Value|VariantValue=10p
+ParamDesignator33=C13
+Variation36=Designator=C33|UniqueId=\CTYTDVIT\BMDOUNKN|Kind=0|AlternatePart= 
+ParamVariation34=ParameterName=Value|VariantValue=1000p
+ParamDesignator34=C33
+Variation37=Designator=C55|UniqueId=\WBTQUDQR\GAYCYUUC|Kind=0|AlternatePart= 
+ParamVariation35=ParameterName=Value|VariantValue=10p
+ParamDesignator35=C55
+Variation38=Designator=C55"|UniqueId=\EPRXPWLH\GAYCYUUC|Kind=0|AlternatePart= 
+ParamVariation36=ParameterName=Value|VariantValue=10p
+ParamDesignator36=C55"
+Variation39=Designator=C63|UniqueId=\WBTQUDQR\RRHUCPWN|Kind=0|AlternatePart= 
+ParamVariation37=ParameterName=Value|VariantValue=10p
+ParamDesignator37=C63
+Variation40=Designator=C63"|UniqueId=\EPRXPWLH\RRHUCPWN|Kind=0|AlternatePart= 
+ParamVariation38=ParameterName=Value|VariantValue=10p
+ParamDesignator38=C63"
+Variation41=Designator=L11|UniqueId=\CTYTDVIT\LPSBTHLR|Kind=0|AlternatePart= 
+ParamVariation39=ParameterName=Value|VariantValue=5.6nH
+ParamDesignator39=L11
+Variation42=Designator=L12|UniqueId=\CTYTDVIT\FBUJKUCQ|Kind=0|AlternatePart= 
+ParamVariation40=ParameterName=Value|VariantValue=5.6nH
+ParamDesignator40=L12
+Variation43=Designator=R30|UniqueId=\CTYTDVIT\FBWAYLHT|Kind=0|AlternatePart= 
+ParamVariation41=ParameterName=Value|VariantValue=51
+ParamDesignator41=R30
+Variation44=Designator=R31|UniqueId=\CTYTDVIT\QRQAOTUF|Kind=0|AlternatePart= 
+ParamVariation42=ParameterName=Value|VariantValue=51
+ParamDesignator42=R31
+Variation45=Designator=R28|UniqueId=\CTYTDVIT\CJGLSOPL|Kind=0|AlternatePart= 
+ParamVariation43=ParameterName=Value|VariantValue=4k7
+ParamDesignator43=R28
+Variation46=Designator=R29|UniqueId=\CTYTDVIT\WXEEWEQU|Kind=0|AlternatePart= 
+ParamVariation44=ParameterName=Value|VariantValue=4k7
+ParamDesignator44=R29
+Variation47=Designator=R26|UniqueId=\CTYTDVIT\WVDXRHFP|Kind=0|AlternatePart= 
+ParamVariation45=ParameterName=Value|VariantValue=0
+ParamDesignator45=R26
+Variation48=Designator=R27|UniqueId=\CTYTDVIT\HHMPRLVU|Kind=0|AlternatePart= 
+ParamVariation46=ParameterName=Value|VariantValue=0
+ParamDesignator46=R27
+Variation49=Designator=L8|UniqueId=\CTYTDVIT\VBOTAPVV|Kind=0|AlternatePart= 
+ParamVariation47=ParameterName=Value|VariantValue=100nH
+ParamDesignator47=L8
+Variation50=Designator=L9|UniqueId=\CTYTDVIT\ENXMXCNO|Kind=0|AlternatePart= 
+ParamVariation48=ParameterName=Value|VariantValue=100nH
+ParamDesignator48=L9
+Variation51=Designator=C47|UniqueId=\WBTQUDQR\YIWDQSPI|Kind=0|AlternatePart= 
+ParamVariation49=ParameterName=Value|VariantValue=3p
+ParamDesignator49=C47
+Variation52=Designator=C47"|UniqueId=\EPRXPWLH\YIWDQSPI|Kind=0|AlternatePart= 
+ParamVariation50=ParameterName=Value|VariantValue=3p
+ParamDesignator50=C47"
+Variation53=Designator=C51|UniqueId=\WBTQUDQR\IQNVQMSB|Kind=0|AlternatePart= 
+ParamVariation51=ParameterName=Value|VariantValue=3p
+ParamDesignator51=C51
+Variation54=Designator=C51"|UniqueId=\EPRXPWLH\IQNVQMSB|Kind=0|AlternatePart= 
+ParamVariation52=ParameterName=Value|VariantValue=3p
+ParamDesignator52=C51"
+Variation55=Designator=L14"|UniqueId=\EPRXPWLH\PRBNIDFK|Kind=0|AlternatePart= 
+ParamVariation53=ParameterName=Value|VariantValue=3.9nH
+ParamDesignator53=L14"
+Variation56=Designator=C41"|UniqueId=\EPRXPWLH\HQMDPIHP|Kind=1|AlternatePart= 
+Variation57=Designator=C42|UniqueId=\WBTQUDQR\PYLMXFDI|Kind=1|AlternatePart= 
+Variation58=Designator=C44|UniqueId=\WBTQUDQR\WPWEGHHN|Kind=1|AlternatePart= 
+Variation59=Designator=C41|UniqueId=\WBTQUDQR\HQMDPIHP|Kind=1|AlternatePart= 
+Variation60=Designator=C42"|UniqueId=\EPRXPWLH\PYLMXFDI|Kind=1|AlternatePart= 
+Variation61=Designator=C44"|UniqueId=\EPRXPWLH\WPWEGHHN|Kind=1|AlternatePart= 
+Variation62=Designator=L4|UniqueId=\CTYTDVIT\YAKKEKOH|Kind=0|AlternatePart= 
+ParamVariation54=ParameterName=Value|VariantValue=4.7nH
+ParamDesignator54=L4
+Variation63=Designator=L5|UniqueId=\CTYTDVIT\BXYGFLFS|Kind=0|AlternatePart= 
+ParamVariation55=ParameterName=Value|VariantValue=4.7nH
+ParamDesignator55=L5
+Variation64=Designator=L14|UniqueId=\WBTQUDQR\PRBNIDFK|Kind=0|AlternatePart= 
+ParamVariation56=ParameterName=Value|VariantValue=3.9nH
+ParamDesignator56=L14
+ParamVariationCount=56
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs\NC Drill Output\UmSELv1-NonPlated.TXT
+DocumentPath=Project Outputs\Design Rule Check - UmSELv1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs\NC Drill Output\UmSELv1-Plated.TX1
+DocumentPath=Project Outputs\Pick Place\Pick and place 900.txt
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs\NC Drill Output\UmSELv1-Plated.TXT
+DocumentPath=Project Outputs\NC Drill\UmSELv1-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs\NC Drill Output\UmSELv1.DR1
+DocumentPath=Project Outputs\NC Drill\UmSELv1-Plated.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs\NC Drill Output\UmSELv1.DRL
+DocumentPath=Project Outputs\NC Drill\UmSELv1-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs\NC Drill Output\UmSELv1.DRR
+DocumentPath=Project Outputs\NC Drill\UmSELv1.DR1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.EXTREP
+DocumentPath=Project Outputs\NC Drill\UmSELv1.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.G1
+DocumentPath=Project Outputs\NC Drill\UmSELv1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.GBL
+DocumentPath=Project Outputs\Gerber\UmSELv1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.GBP
+DocumentPath=Project Outputs\Gerber\UmSELv1.G1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.GBS
+DocumentPath=Project Outputs\Gerber\UmSELv1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.GKO
+DocumentPath=Project Outputs\Gerber\UmSELv1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.GM1
+DocumentPath=Project Outputs\Gerber\UmSELv1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.GM2
+DocumentPath=Project Outputs\Gerber\UmSELv1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.GP1
+DocumentPath=Project Outputs\Gerber\UmSELv1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.GTL
+DocumentPath=Project Outputs\Gerber\UmSELv1.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.GTO
+DocumentPath=Project Outputs\Gerber\UmSELv1.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.GTP
+DocumentPath=Project Outputs\Gerber\UmSELv1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.GTS
+DocumentPath=Project Outputs\Gerber\UmSELv1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs\NC Drill Output\UmSELv1.LDP
+DocumentPath=Project Outputs\Gerber\UmSELv1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs\Gerber Output\UmSELv1.REP
+DocumentPath=Project Outputs\Gerber\UmSELv1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs\NC Drill\UmSELv1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs\Gerber\UmSELv1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs\Gerber\UmSELv1.RUL
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -279,10 +506,10 @@ SCH_ShowParameter=-1
 OutputFileName=BOOST1800-51.PRJPCB=D:\MyProj\PROTEL\Boosters\Booster1800\Booster1800v51\Project Outputs\687253-118-5(DN1800BSTv51).pdf
 SCH_ExpandLogicalToPhysical=-1
 SCH_HasExpandLogicalToPhysicalSheets=-1
-AddNetsInformation=0
+AddNetsInformation=-1
 SCH_PrintColor=2
 SCH_ShowProbes=-1
-SCH_VariantName=UmTRX GSM Preselector_full
+SCH_VariantName=UmSELv1. GSM 1800 Preselector.
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
 SCH_ExpandPorts=-1
