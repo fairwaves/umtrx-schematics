@@ -16,6 +16,11 @@ Structure
   - bom - Bill of Materials exported from the Altium Designer
   - pdf - schematics and assembly drawings exported from the Altium Designer
   - pictures - 3D model pictures and photos
+- umtrx-v2.1 - files related to UmTRXv2.1 boards
+  - altium - design files in Altium Designer format
+  - bom - Bill of Materials exported from the Altium Designer
+  - pdf - schematics and assembly drawings exported from the Altium Designer
+  - pictures - 3D model pictures and photos
 - umsel-v1 - files related to UmSELv1 preselector mezzanine boards (GSM900 and GSM1800 versions)
   - altium - design files in Altium Designer format
   - bom - Bill of Materials exported from the Altium Designer

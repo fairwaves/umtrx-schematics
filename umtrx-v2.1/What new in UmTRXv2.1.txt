@@ -1,0 +1,14 @@
+Whats new in UmTRXv2.1
+
+1. C167 Removed and DC supply connector PJ-002AH-SMT now placed there for lab users.
+2. Fixed unrouted GND track under the fpga, which wasn't issue because of redundant. 
+3. Both FAN1 and FAN2 now can be supplied from +6V or +8..28V through R172/R172' or R171/R171'.
+4. PVDDSPI33 of LMS's connected to +2.5VLMS (L13) because of SPI port is 2.5VCMOS at FPGA side.
+5. OHM4 component footprint fixed to place it from top side (issue 32).
+6. LMS output matching capasitor C96'= 3pF added (issue 41).
+7. DC/DC syncro problem fixed. C23 = 100pF added to sync circuit of DC/DC converters (issue 42).
+8. Thermosensors added for both LMS. Both connected to EEPROM I2C bus.
+9. For better performance, +3.3VLMS supplied from DC/DC+3.3V via inductor filter instead of noisy U29. 
+10. Fixed netlabels of pins AA1 and AB4 of FPGA and S1 signed "RESET", but S2 signed "SAFE" (issue 40).
+11. Returned MCX connectors for all RF signals, but U.FL connectors still can be used at the same places.
+12. GPS, CLK and PPS now with onboard through hole SMA connectors at the edge of board.
