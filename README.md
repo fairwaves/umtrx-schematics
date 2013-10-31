@@ -52,4 +52,4 @@ Datasheets
 ----------
 
 * Most datasheet are easily found at the respective manufacturers' web-sites.
-* Datasheets for Lime Microsystems LMS6002D single-chip transceiver could be found at the lms6002-documentation github repository: https://github.com/chemeris/lms6002-documentation
+* Datasheets for Lime Microsystems LMS6002D single-chip transceiver could be found at the Myriad-RF project LMS6002D-Docs GitHub repository: https://github.com/myriadrf/LMS6002D-docs
